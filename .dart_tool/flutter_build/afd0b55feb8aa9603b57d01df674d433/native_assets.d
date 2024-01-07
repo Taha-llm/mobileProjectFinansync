@@ -1,0 +1,1 @@
+ C:\\finansync\\mobileproject\\.dart_tool\\flutter_build\\afd0b55feb8aa9603b57d01df674d433\\native_assets.yaml: 
